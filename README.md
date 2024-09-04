@@ -1,2 +1,2 @@
-# Search
-Implement different search algorithms
+# Search && Sort
+Implement different search and sort algorithms
