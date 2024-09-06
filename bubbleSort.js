@@ -1,4 +1,4 @@
-//O(n*n)
+//O(n*n) - for nearly sorted data O(n)
 function bubbleSort(arr) {
     var noSwaps;
     for (var i = arr.length; i > 0; i--) {
